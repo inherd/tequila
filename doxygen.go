@@ -1,8 +1,8 @@
 package main
 
 import (
-	. "github.com/newlee/tequila/dot"
-	. "github.com/newlee/tequila/model"
+	. "github.com/phodal/tequila/dot"
+	. "github.com/phodal/tequila/model"
 	"os"
 	"path/filepath"
 	"strings"

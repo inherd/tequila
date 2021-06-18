@@ -6,7 +6,6 @@ require (
 	github.com/awalterschulze/gographviz v2.0.3+incompatible
 	github.com/dlclark/regexp2 v1.4.0
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/newlee/tequila v0.0.0-20191118093545-806c8024da32
 	github.com/onsi/ginkgo v1.16.4
 	github.com/onsi/gomega v1.13.0
 	github.com/spf13/cobra v1.1.3

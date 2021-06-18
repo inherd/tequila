@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"bufio"
-	"github.com/newlee/tequila/viz"
+	"github.com/phodal/tequila/viz"
 	"os"
 	"strings"
 )

@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/awalterschulze/gographviz"
-	. "github.com/newlee/tequila/model"
+	. "github.com/phodal/tequila/model"
 	"io/ioutil"
 	//"fmt"
 )

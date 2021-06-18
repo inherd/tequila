@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"fmt"
-	. "github.com/newlee/tequila/viz"
+	. "github.com/phodal/tequila/viz"
 	"github.com/spf13/cobra"
 )
 

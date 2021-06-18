@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/newlee/tequila/viz"
+	"github.com/phodal/tequila/viz"
 	"reflect"
 	"regexp"
 )

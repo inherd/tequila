@@ -1,7 +1,7 @@
 package dot_test
 
 import (
-	. "github.com/newlee/tequila/dot"
+	. "github.com/phodal/tequila/dot"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

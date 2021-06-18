@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-go install github.com/newlee/tequila/viz/tq_viz_cli
+go install github.com/phodal/tequila/viz/tq_viz_cli
 

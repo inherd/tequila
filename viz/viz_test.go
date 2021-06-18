@@ -1,7 +1,7 @@
 package viz_test
 
 import (
-	. "github.com/newlee/tequila/viz"
+	. "github.com/phodal/tequila/viz"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
