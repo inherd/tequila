@@ -30,6 +30,25 @@ Flags:
 Use "tequila [command] --help" for more information about a command.
 ```
 
+## Doxygen
+
+1. install doxygen
+
+```
+brew instal doxygen
+```
+
+2. create Doxyfile
+
+copy from examples
+
+3. change `INPUT` & `OUTPUT_DIRECTORY` in config
+
+```
+INPUT                  = examples/inheritance-tree-code
+OUTPUT_DIRECTORY       = examples/inheritance-tree-code
+```
+
 LICENSE
 ---
 
