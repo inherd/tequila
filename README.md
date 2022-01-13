@@ -12,7 +12,7 @@ Usage:
 
 Available Commands:
   call        icall grpah
-  coll        full collaboration grpahh
+  coll        full collaboration graph
   dc          database call chain grpah
   dd          database dependencies
   help        Help about any command

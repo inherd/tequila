@@ -11,7 +11,7 @@ import (
 
 var collCmd *cobra.Command = &cobra.Command{
 	Use:   "coll",
-	Short: "full collaboration grpahh",
+	Short: "full collaboration graph",
 	Long:  ``,
 	Run: func(cmd *cobra.Command, args []string) {
 		source := cmd.Flag("source").Value.String()
