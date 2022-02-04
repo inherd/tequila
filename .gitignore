@@ -45,3 +45,4 @@ bc_demo_test
 cmake_install.cmake
 tree.dot
 !Makefile
+latex/
